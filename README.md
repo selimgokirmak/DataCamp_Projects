@@ -1,2 +1,2 @@
 ## DataCamp_SQL_Projects
-This repository holds SQL projects from DataCamp.
+This repository holds Data Analysis projects with SQL from DataCamp.
